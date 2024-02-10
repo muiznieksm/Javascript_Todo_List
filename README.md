@@ -3,6 +3,9 @@
 
 This project is a simple, interactive todo list application built using HTML, CSS, and JavaScript. It allows users to add, view, and delete todo items. This application utilizes Bootstrap for styling and FontAwesome for icons, providing a responsive and visually appealing interface.
 
+## Preview
+<img src="Preview.gif" alt="Project Preview" width="70%" style="border: 1px solid #ccc; border-radius: 5px; box-shadow: 3px 3px 5px #888;">
+
 ## Features
 
 - Add todo items
@@ -30,5 +33,4 @@ No installation is necessary. To run the application, simply open `index.html` i
 - [Bootstrap](https://getbootstrap.com/) - For styling
 - [FontAwesome](https://fontawesome.com/) - For delete icon
 
-## Preview
-<img src="Preview.gif" alt="Project Preview" width="70%" style="border: 1px solid #ccc; border-radius: 5px; box-shadow: 3px 3px 5px #888;">
+
